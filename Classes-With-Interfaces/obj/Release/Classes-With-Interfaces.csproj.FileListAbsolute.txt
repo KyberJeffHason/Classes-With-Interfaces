@@ -1,0 +1,6 @@
+D:\GitHubProjects\Classes-With-Interfaces\Classes-With-Interfaces\bin\Release\Classes-With-Interfaces.exe.config
+D:\GitHubProjects\Classes-With-Interfaces\Classes-With-Interfaces\bin\Release\Classes-With-Interfaces.exe
+D:\GitHubProjects\Classes-With-Interfaces\Classes-With-Interfaces\bin\Release\Classes-With-Interfaces.pdb
+D:\GitHubProjects\Classes-With-Interfaces\Classes-With-Interfaces\obj\Release\Classes-With-Interfaces.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\Classes-With-Interfaces\Classes-With-Interfaces\obj\Release\Classes-With-Interfaces.exe
+D:\GitHubProjects\Classes-With-Interfaces\Classes-With-Interfaces\obj\Release\Classes-With-Interfaces.pdb
